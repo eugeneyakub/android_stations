@@ -19,3 +19,5 @@ price/web/static/.sass-cache/
 vzabote/web/static/.sass-cache/
 vzabote/web/static/config/
 settings/personal.py
+/stations/*
+/stations
