@@ -1,0 +1,437 @@
+<?xml version='1.0' encoding='cp1251'?>
+<pricelists>
+  <pricelist>
+    <name>Лукойл АЗС №414</name>
+    <url>price25.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Российская, 124</address>
+        <coord>
+          <latitude>55.1635487045</latitude>
+          <longitude>61.4163856032</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>Лукойл АЗС №414</name>
+    <url>price25.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Российская, 124</address>
+        <coord>
+          <latitude>55.1635487045</latitude>
+          <longitude>61.4163856032</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>Лукойл АЗС №413</name>
+    <url>price24.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>пл. МОПРа, 10/1</address>
+        <coord>
+          <latitude>55.1637333333</latitude>
+          <longitude>61.4172</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>Лукойл АЗС №412</name>
+    <url>price23.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Воровского, 28/1</address>
+        <coord>
+          <latitude>55.1507</latitude>
+          <longitude>61.3889166667</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>Лукойл АЗС №412</name>
+    <url>price23.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Воровского, 28/1</address>
+        <coord>
+          <latitude>55.1507</latitude>
+          <longitude>61.3889166667</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>Лукойл АЗС №405</name>
+    <url>price18.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Свердловский пр., 53а/1</address>
+        <coord>
+          <latitude>55.1681666667</latitude>
+          <longitude>61.3874333333</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>Лукойл АЗС №422</name>
+    <url>price31.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>пр. Ленина, 21в/1</address>
+        <coord>
+          <latitude>55.1608</latitude>
+          <longitude>61.4268833333</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>Лукойл АЗС №27</name>
+    <url>price10.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Братьев Кашириных, 65/1</address>
+        <coord>
+          <latitude>55.1739166667</latitude>
+          <longitude>61.3825666667</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>Лукойл</name>
+    <url>price42.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Сортировочная, 5/1</address>
+        <coord>
+          <latitude>55.1457333333</latitude>
+          <longitude>61.4249833333</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>Лукойл АЗС №424</name>
+    <url>price33.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>пр. Ленина, 26/1</address>
+        <coord>
+          <latitude>55.1614666667</latitude>
+          <longitude>61.43045</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>Лукойл АЗС №401</name>
+    <url>price15.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Труда, 185/1</address>
+        <coord>
+          <latitude>55.1686166667</latitude>
+          <longitude>61.37575</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>Лукойл АЗС №403</name>
+    <url>price16.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Салтыкова 43/1</address>
+        <coord>
+          <latitude>55.13235</latitude>
+          <longitude>61.38575</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>Лукойл АЗС №403</name>
+    <url>price16.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Салтыкова 43/1</address>
+        <coord>
+          <latitude>55.13235</latitude>
+          <longitude>61.38575</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>Лукойл АЗС №410</name>
+    <url>price22.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Копейское шоссе,62/1</address>
+        <coord>
+          <latitude>55.14535</latitude>
+          <longitude>61.44975</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>Лукойл АЗС №415</name>
+    <url>price26.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Кузнецова, 1/1</address>
+        <coord>
+          <latitude>55.1162166667</latitude>
+          <longitude>61.3589833333</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>Лукойл АЗС №415</name>
+    <url>price26.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Кузнецова, 1/1</address>
+        <coord>
+          <latitude>55.1162166667</latitude>
+          <longitude>61.3589833333</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>Лукойл АЗС №404</name>
+    <url>price17.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Молодогвардейцев, 31/1</address>
+        <coord>
+          <latitude>55.19075</latitude>
+          <longitude>61.3335333333</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>Лукойл АЗС №404</name>
+    <url>price17.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Молодогвардейцев, 31/1</address>
+        <coord>
+          <latitude>55.19075</latitude>
+          <longitude>61.3335333333</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>Лукойл АЗС №92</name>
+    <url>price12.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Хлебозаводская, 7в/1</address>
+        <coord>
+          <latitude>55.2353833333</latitude>
+          <longitude>61.4202166667</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>Лукойл АЗС №409</name>
+    <url>price21.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Черкасская, 26/2</address>
+        <coord>
+          <latitude>55.2331166667</latitude>
+          <longitude>61.3753166667</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>Лукойл АЗС №83</name>
+    <url>price11.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Молодогвардейцев, 17/1</address>
+        <coord>
+          <latitude>55.2011333333</latitude>
+          <longitude>61.3294</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>Лукойл АЗС №7</name>
+    <url>price5.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Троицкий тракт 7км, 2/1</address>
+        <coord>
+          <latitude>55.0758666667</latitude>
+          <longitude>61.3873333333</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>Лукойл АЗС №418</name>
+    <url>price29.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Дачный пер., 30/1</address>
+        <coord>
+          <latitude>55.0717166667</latitude>
+          <longitude>61.3901166667</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>Лукойл АЗС №408</name>
+    <url>price20.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Комсомольский проспект, 70/1</address>
+        <coord>
+          <latitude>55.19515</latitude>
+          <longitude>61.3204333333</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>Лукойл АЗС №406</name>
+    <url>price19.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Братьев Кашириных, 129д/1</address>
+        <coord>
+          <latitude>55.1767833333</latitude>
+          <longitude>61.3136666667</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>Лукойл АЗС №406</name>
+    <url>price19.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Братьев Кашириных, 129д/1</address>
+        <coord>
+          <latitude>55.1767833333</latitude>
+          <longitude>61.3136666667</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>Лукойл АЗС №5</name>
+    <url>price3.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Мира, 67/1</address>
+        <coord>
+          <latitude>55.2534333333</latitude>
+          <longitude>61.3700833333</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>Лукойл АЗС №416</name>
+    <url>price27.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Парковая (Шершни), 10/2</address>
+        <coord>
+          <latitude>55.1523166667</latitude>
+          <longitude>61.3032666667</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>Лукойл АЗС №417</name>
+    <url>price28.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Жилая, 3</address>
+        <coord>
+          <latitude>55.1882666667</latitude>
+          <longitude>61.3038333333</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>Лукойл АЗС №100</name>
+    <url>price14.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Городская, 72/1</address>
+        <coord>
+          <latitude>55.1845666667</latitude>
+          <longitude>61.2667166667</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>Лукойл АЗС №99</name>
+    <url>price13.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>г. Копейск, ул. Лихачева</address>
+        <coord>
+          <latitude>0</latitude>
+          <longitude>0</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+</pricelists>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='cp1251'?>
+<offers>
+  <offer>
+    <price>24.3</price>
+    <code source="neiron">1</code>
+  </offer>
+  <offer>
+    <price>25.4</price>
+    <code source="neiron">2</code>
+  </offer>
+  <offer>
+    <price>26.9</price>
+    <code source="neiron">3</code>
+  </offer>
+  <offer>
+    <price>28.9</price>
+    <code source="neiron">5</code>
+  </offer>
+</offers>

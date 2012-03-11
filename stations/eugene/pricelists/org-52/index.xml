@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='cp1251'?>
+<pricelists>
+  <pricelist>
+    <name>ИП Баландаев</name>
+    <url>price1.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Проспект Победы, 35/1</address>
+        <coord>
+          <latitude>55.1900333333</latitude>
+          <longitude>61.4536666667</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+</pricelists>

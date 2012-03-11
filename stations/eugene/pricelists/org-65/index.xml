@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='cp1251'?>
+<pricelists>
+  <pricelist>
+    <name>АЗС ИП Насыров</name>
+    <url>price1.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>40 Лет Победы, 6/1</address>
+        <coord>
+          <latitude>55.1928</latitude>
+          <longitude>61.2866333333</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+</pricelists>

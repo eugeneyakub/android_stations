@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='cp1251'?>
+<pricelists>
+  <pricelist>
+    <name>АЗС УралТракПром</name>
+    <url>price1.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Героев Танкограда, 2д</address>
+        <coord>
+          <latitude>55.2180333333</latitude>
+          <longitude>61.4247666667</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+</pricelists>

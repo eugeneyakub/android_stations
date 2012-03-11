@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='cp1251'?>
+<pricelists>
+  <pricelist>
+    <name>ЧелтэкНефть</name>
+    <url>price1.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Шота Руставелли, 32/1</address>
+        <coord>
+          <latitude>55.1430666667</latitude>
+          <longitude>61.4247</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>ЧелтэкНефть</name>
+    <url>price1.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Шота Руставелли, 32/1</address>
+        <coord>
+          <latitude>55.1430666667</latitude>
+          <longitude>61.4247</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>ЧелтэкНефть</name>
+    <url>price2.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Свердловский тракт, 12/1</address>
+        <coord>
+          <latitude>55.2247666667</latitude>
+          <longitude>61.3757833333</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+  <pricelist>
+    <name>ЧелтэкНефть</name>
+    <url>price2.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Свердловский тракт, 12/1</address>
+        <coord>
+          <latitude>55.2247666667</latitude>
+          <longitude>61.3757833333</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+</pricelists>

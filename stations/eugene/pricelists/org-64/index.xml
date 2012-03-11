@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='cp1251'?>
+<pricelists>
+  <pricelist>
+    <name>АЗС ИП Мисова</name>
+    <url>price1.xml</url>
+    <shops>
+      <shop>
+        <city>Челябинск</city>
+        <address>Троицкий тракт, 9/2</address>
+        <coord>
+          <latitude>55.1183666667</latitude>
+          <longitude>61.3853666667</longitude>
+        </coord>
+      </shop>
+    </shops>
+  </pricelist>
+</pricelists>
