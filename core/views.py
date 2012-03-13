@@ -73,6 +73,9 @@ def get_stations(request):
               'id': station['sid']
             })
        
+       
+        days = ['mon','tue','wed','thu', 'fri','sat', 'sun']       
+       
         for oid, item in roots.items():
             outDir = user_path + 'org-%s/' % (oid)
             if os.path.exists(outDir):
@@ -89,6 +92,16 @@ def get_stations(request):
                 
                 shops = etree.SubElement(pricelist, 'shops')
                 shop = etree.SubElement(shops, 'shop')
+
+                schedule = etree.SubElement(shop, 'schedule')
+                
+                for d in days:
+                    _d = etree.SubElement(schedule, d)
+                    work = etree.SubElement(_d, 'work')
+                    work.set('start', '8:00')
+                    work.set('end', '22:00')
+
+                                
                 city = etree.SubElement(shop, 'city')
                 city.text = u'Челябинск'
                 address = etree.SubElement(shop, 'address')
